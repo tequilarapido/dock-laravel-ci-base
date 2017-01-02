@@ -45,6 +45,7 @@ RUN docker-php-ext-install \
             xml \
             zip \
             bz2 \
+            soap \
             opcache
 
 # XDEBUG
